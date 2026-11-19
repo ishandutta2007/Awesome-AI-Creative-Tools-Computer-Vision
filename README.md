@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Creative-Tools-Computer-Vision/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -66,13 +66,13 @@ Below is a market-indexed comparison of leading cloud-hosted AI creative platfor
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the open-source foundations driving computer vision and creative visual workflows. Each repository displays its live GitHub star badge (styled with `style=social` and `color=white`), linking directly to its stargazers directory.
+Explore the open-source foundations driving computer vision and creative visual workflows. Each repository displays its live GitHub Stars_Badge (styled with `style=social` and `color=white`), linking directly to its stargazers directory.
 
-The table is sorted in **descending order by GitHub star count**.
+The table is sorted in **descending order by GitHub Stars_Count**.
 
 ### Featured & Core Frameworks
 
-| Repository | GitHub Stars Badge | Primary License | Core Features & Architecture Highlights |
+| Repository | GitHub_Stars_Badge | Primary License | Core Features & Architecture Highlights |
 | :--- | :---: | :---: | :--- |
 | **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** | [![Stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) | `AGPL-3.0` | 🌟 Definitive browser UI for Stable Diffusion 1.5/2.1/SDXL with outpainting, inpainting, prompt matrix, LoRA, and massive community extension ecosystem. |
 | **[comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)** | [![Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white)](https://github.com/comfyanonymous/ComfyUI/stargazers) | `GPL-3.0` | ⚡ Industry-standard modular graph and node-based execution backend for chaining complex diffusion, ControlNet, IP-Adapter, and vision models locally. |
